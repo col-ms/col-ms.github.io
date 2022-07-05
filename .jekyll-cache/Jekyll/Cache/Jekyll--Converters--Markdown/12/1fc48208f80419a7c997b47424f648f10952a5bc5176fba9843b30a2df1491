@@ -1,0 +1,4 @@
+I"Ì<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">knitr</span><span class="o">::</span><span class="n">opts_chunk</span><span class="o">$</span><span class="n">set</span><span class="p">(</span><span class="n">fig.align</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"center"</span><span class="p">)</span><span class="w">
+</span><span class="n">ggplot2</span><span class="o">::</span><span class="n">theme_set</span><span class="p">(</span><span class="n">ggplot2</span><span class="o">::</span><span class="n">theme_minimal</span><span class="p">())</span><span class="w">
+</span></code></pre></div></div>
+:ET
